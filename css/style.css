@@ -282,6 +282,9 @@ a:focus {
 	-moz-animation: scroll 1s infinite;
 	animation: scroll 1s infinite;
 }
+.phone h3{
+	color: white;
+}
 
 @keyframes scroll {
 	0% {
